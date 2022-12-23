@@ -1,0 +1,5 @@
+bottle==0.12.23
+cryptography==38.0.4
+PyJWT==2.6.0
+python-dotenv==0.21.0
+requests==2.28.1
